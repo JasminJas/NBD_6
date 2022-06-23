@@ -12,7 +12,7 @@ import com.basho.riak.client.core.util.BinaryValue;
 
 import java.net.UnknownHostException;
 
-public class TasteOfRiak {
+public class TasteOfFiestunia {
 
     public static class Vehicle {
         public String brand;

@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dda890ed-caa0-4b39-b3ff-83f4b2b99ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TasteOfRiak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TasteOfRiak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TasteOfFiestunia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jasmi\IdeaProjects\NBD_6\src\main\java" />
@@ -53,8 +49,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="TasteOfRiak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TasteOfRiak" />
+    <configuration name="TasteOfFiestunia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TasteOfFiestunia" />
       <module name="NBD_6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,7 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TasteOfRiak" />
+        <item itemvalue="Application.TasteOfFiestunia" />
       </list>
     </recent_temporary>
   </component>
@@ -75,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655829497281</updated>
       <workItem from="1655829498832" duration="1888000" />
-      <workItem from="1655999519037" duration="1294000" />
+      <workItem from="1655999519037" duration="1637000" />
     </task>
     <servers />
   </component>
